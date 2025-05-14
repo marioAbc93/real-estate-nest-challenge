@@ -1,8 +1,8 @@
 {
   "name": "real-estate-challenge",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Real estate API challenge using NestJS",
+  "author": "Mario Barros C",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
