@@ -10,6 +10,20 @@ Project setup
 $ npm install
 ```
 
+## Folder structure
+
+<p>The project follows a modular structure within the `src/` directory. The main organization is described below:</p>
+
+```bash
+src/
+├── database/
+│   └── properties.json        
+└── properties/
+├── properties.controller.ts 
+├── properties.module.ts  
+└── properties.service.ts  
+```
+
 ## Routes
 
 ```bash
