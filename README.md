@@ -3,7 +3,8 @@
 <p>
 this is a simple demonstration of an api developed with nest js where you create two get methods, one to get all properties and one to get a particular property by its id
 </p>
-## Project setup
+
+Project setup
 
 ```bash
 $ npm install
@@ -12,15 +13,15 @@ $ npm install
 ## Routes
 
 ```bash
-$ /properties
+/properties
 ```
 
 ```bash
-$ /properties?page={pagenumber}
+/properties?page={pagenumber}
 ```
 
 ```bash
-$ /properties/:id
+/properties/:id
 ```
 
 ## Compile and run the project
